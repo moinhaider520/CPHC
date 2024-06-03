@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "CPHC",
+    "slug": "carepartnershcmobile",
+    "version": "2.3.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trevor.cphc.carepartnershcmobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.trevor.cphc.carepartnershcmobile",
+      "versionCode": 14
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "67019239-615e-4de8-a224-9cf54b071803"
+      }
+    },
+    "owner": "trevor.cphc",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

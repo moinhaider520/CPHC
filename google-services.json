@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453754646189",
+    "project_id": "care-partners-hc",
+    "storage_bucket": "care-partners-hc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453754646189:android:74c89ac20fa5537863e024",
+        "android_client_info": {
+          "package_name": "com.moin2405.carepartnershc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoBARglq2W9BNKVAM0q7WeaeKKpGQaDoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
